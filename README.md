@@ -2,7 +2,8 @@
 ```
 editorconfig  统一编码风格
 
-````
+
 ***gitignore 配置忽略的文件
 ***bower.json 使用bower下载包
 ***package.json 使用npm install来下载包
+````
