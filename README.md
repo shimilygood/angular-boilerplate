@@ -1,1 +1,2 @@
-# Angular Boilerplate
+# 整合angularJs项目骨架，以后的项目可以通用这种骨架模板来做。
+
